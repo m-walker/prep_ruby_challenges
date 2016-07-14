@@ -12,4 +12,4 @@ def combinations(first_collection, second_collection)
   combinations
 end
 
-combinations(["on","in"],["to","rope"])
+puts combinations(["on","in"],["to","rope"])
