@@ -25,5 +25,5 @@ def overlap(rectangle1, rectangle2)
   end
 end
 
-overlap( [[0,0],[3,3]], [[1,1],[4,5]] )
-overlap( [[0,0],[1,4]], [[1,1],[3,2]] )
+puts overlap( [[0,0],[3,3]], [[1,1],[4,5]] )
+puts overlap( [[0,0],[1,4]], [[1,1],[3,2]] )
