@@ -84,4 +84,4 @@ def counting_game(number_of_players, final_number)
   end
 end
 
-counting_game(10,100)
+puts counting_game(10,100)
