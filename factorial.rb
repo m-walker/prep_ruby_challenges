@@ -12,4 +12,4 @@ product = 1
   product
 end
 
-factorial(5)
+puts factorial(5)
