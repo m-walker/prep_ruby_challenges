@@ -11,4 +11,4 @@ def power(num1, num2)
   product.inject("*")
 end
 
-power(3,4)
+puts power(3,4)
